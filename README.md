@@ -2,8 +2,8 @@
 
 Hemos comenzado con el repositorio, les voy a dejar los comandos que utilice:<br>
 
-* vimos como he creado el repositorio en la nube de Github
-* es importante saber que antes de todo esto se  debe tener todos los pasos de ingreso y seguridad
+* Vimos como he creado el repositorio en la nube de Github
+* Es importante saber que antes de todo esto se  debe tener todos los pasos de ingreso y seguridad
 * Cuando hablo de seguridad y conectividad se trata de la ssh, es la clave publica y privada
 * Copiamos el enlace ssh
 * Abrimos la terminal de Git Bash como administrador
@@ -37,4 +37,4 @@ Ingresamos al repositorio y luego solo precionamos . (punto) <br>
     .
 ```
 
-ingresamos todo esata información y terminamos.
+ingresamos todo esta información y terminamos.
