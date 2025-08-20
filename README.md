@@ -10,7 +10,7 @@ Hemos comenzado con el repositorio, les voy a dejar los comandos que utilice:<br
 * Ingresamos al area de trabajo donde queremos agregar el repo
 * Yo ingrese a la carpeta Documents
 
-´´´sh
+```sh
     cd Documents
     mkdir Proyectos
     cd Proyectos
@@ -25,7 +25,7 @@ Hemos comenzado con el repositorio, les voy a dejar los comandos que utilice:<br
     git commit -m"Creamos el readme.md"
     git status
     git push origin main
-´´´
+```
 
 ## Afergamos este trabajo en el readme online
 
@@ -33,8 +33,8 @@ Hemos comenzado con el repositorio, les voy a dejar los comandos que utilice:<br
 
 Ingresamos al repositorio y luego solo precionamos . (punto) <br>
 
-´´´sh
+```sh
     .
-´´´
+```
 
 ingresamos todo esata información y terminamos.
